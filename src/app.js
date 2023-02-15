@@ -1,7 +1,7 @@
 const fs = require('fs');
 const express = require('express');
 const app = express();
-//Aim: With the help of router, get all the with router.GET request and create a product with router.POST request
+//Aim: With the help of router, get all the product with router.GET request and create a product with router.POST request
 
 //middleware
 //write router middleware here
